@@ -1,0 +1,559 @@
+Timestamp,Email Address,Name,ID,Department,Vaccination Status
+8/20/2021 21:20:06,u1602022@student.cuet.ac.bd,Tanvir Ibn Touhid,160222,EEE,Registration done but no vaccination yet
+8/20/2021 16:44:10,saminawsaf@gmail.com,Samin Awsaf,1407010,PME,Couldn’t Register yet (or no NID)
+8/20/2021 22:07:17,u1502111@student.cuet.ac.bd,Sinthia Azmir Mim,1502111,EEE,2nd dose done
+8/30/2021 13:29:45,u1601001@student.cuet.ac.bd,Md Taki Tajwar,1601001,CE,2nd dose done
+8/20/2021 15:36:42,u1601002@student.cuet.ac.bd,MD Mahbub Alam ,1601002,CE,Registration done but no vaccination yet
+8/20/2021 21:12:18,u1601004@student.cuet.ac.bd,Fyrooz Humayra ,1601004,CE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:08:58,u1601005@student.cuet.ac.bd,Rafi Ahmed,1601005,CE,2nd dose done
+9/2/2021 11:27:40,u1601006@student.cuet.ac.bd,Aneeca Farzana,1601006,CE,Registration done but no vaccination yet
+8/20/2021 21:17:56,u1601007@student.cuet.ac.bd,Iftifah Binte Khaled ,1601007,CE,2nd dose done
+8/20/2021 16:35:00,u1601008@student.cuet.ac.bd,G.M. Zahid Hassan,1601008,CE,2nd dose done
+8/20/2021 15:20:56,u1601009@student.cuet.ac.bd,Md. Tanvir Hasan Mahodi,1601009,CE,2nd dose done
+8/20/2021 15:17:03,u1601010@student.cuet.ac.bd,Md. Humayun Mahmood ,1601010,CE,2nd dose done
+8/20/2021 15:16:31,u1601011@student.cuet.ac.bd,Pial Barua,1601011,CE,2nd dose done
+8/20/2021 18:18:13,u1601012@student.cuet.ac.bd,Asif Zawad,1601012,CE,2nd dose done
+8/20/2021 15:45:35,u1601013@student.cuet.ac.bd,Mushfiq Ahmed,1601013,CE,1st dose done + 2nd dose date given
+8/24/2021 13:09:58,u1601015@student.cuet.ac.bd,Abdul Wahab,1601015,CE,2nd dose done
+8/20/2021 15:25:30,u1601016@student.cuet.ac.bd,Md. Moniruzzaman Saukhin,1601016,CE,2nd dose done
+8/20/2021 17:38:11,u1601017@student.cuet.ac.bd,Md. Habibun Nabi,1601017,CE,Registration done but no vaccination yet
+8/20/2021 15:41:43,u1601018@student.cuet.ac.bd,Md.Arif Mondol,1601018,CE,2nd dose done
+8/20/2021 21:00:08,u1601019@student.cuet.ac.bd,ZANNAT-E-ZERIN ,1601019,CE,2nd dose done
+8/20/2021 15:44:56,u1601020@student.cuet.ac.bd,SHADIA AFRIN OISHORJA,1601020,CE,2nd dose done
+8/20/2021 21:59:55,u1601021@student.cuet.ac.bd,MD. MERAJUL ISLAM,1601021,CE,2nd dose done
+8/20/2021 21:09:30,u1601023@student.cuet.ac.bd,Md. Rezwanur Rahman,1601023,CE,2nd dose done
+8/20/2021 17:03:26,u1601024@student.cuet.ac.bd,SHAHNAZ SULTANA,1601024,CE,Registration done but no vaccination yet
+8/31/2021 14:50:48,u1601025@student.cuet.ac.bd,Samiul Fahad Shaon,1601025,CE,2nd dose done
+8/23/2021 0:39:45,u1601028@student.cuet.ac.bd,Muhammad Mustafa ,1601028,CE,Registration done but no vaccination yet
+8/20/2021 15:23:12,u1601030@student.cuet.ac.bd,Marjan Shaharia ,1601030,CE,2nd dose done
+8/23/2021 1:35:30,u1601032@student.cuet.ac.bd,Antim Datta,1601032,CE,1st dose done + 2nd dose date given
+8/20/2021 15:27:42,u1601033@student.cuet.ac.bd,Pias Datta Purkayestha,1601033,CE,2nd dose done
+8/20/2021 15:33:23,u1601036@student.cuet.ac.bd,Toukir Tasnim Chowdhury,1601036,CE,2nd dose done
+8/20/2021 15:15:47,u1601037@student.cuet.ac.bd,Rakib Hasan,1601037,CE,Registration done but no vaccination yet
+8/30/2021 13:57:55,u1601039@student.cuet.ac.bd,ISMAT JERIN URMI,1601039,CE,2nd dose done
+8/20/2021 23:54:08,u1601040@student.cuet.ac.bd,Samira Kabir Kashfi,1601040,CE,2nd dose done
+8/20/2021 15:16:52,u1601041@student.cuet.ac.bd,Shahriar Ebn Bashar,1601041,CE,2nd dose done
+8/20/2021 16:10:06,u1601042@student.cuet.ac.bd,Md Zubair ,1601042,CE,2nd dose done
+8/21/2021 11:23:06,u1601045@student.cuet.ac.bd,Tarek Kaisher Tusher,1601045,CE,2nd dose done
+8/20/2021 15:21:23,u1601046@student.cuet.ac.bd,Ikra Mehejabin Latif,1601046,CE,Registration done but no vaccination yet
+8/20/2021 15:15:36,u1601047@student.cuet.ac.bd,Sudipta Chowdhury,1601047,CE,1st dose done + 2nd dose date given
+8/20/2021 15:26:03,u1601048@student.cuet.ac.bd,Md.Anuwer Hossain ,1601048,CE,1st dose done + 2nd dose date given
+8/20/2021 15:17:26,u1601049@student.cuet.ac.bd,SHEIKH HAYATH MAHMUD,1601049,CE,2nd dose done
+8/24/2021 13:27:34,u1601051@student.cuet.ac.bd,Fahad Hasan,1601051,CE,2nd dose done
+8/20/2021 15:41:57,u1601053@student.cuet.ac.bd,Md Fakhruz Zahir Majumder,1601053,CE,2nd dose done
+8/21/2021 8:28:23,u1601054@student.cuet.ac.bd,MD. ABIR HASSAN,1601054,CE,2nd dose done
+8/30/2021 14:01:46,u1601057@student.cuet.ac.bd,MD. Morsalin haque,1601057,CE,2nd dose done
+8/20/2021 22:38:41,u1601058@student.cuet.ac.bd,MD. SHAREQ SHAHRIAR,1601058,CE,1st dose done + 2nd dose date not given yet
+8/20/2021 15:18:05,u1601062@student.cuet.ac.bd,Masrur Ahmed Mahin,1601062,CE,2nd dose done
+8/21/2021 9:40:10,u1601063@student.cuet.ac.bd,Md. Sazzad Hossain,1601063,CE,2nd dose done
+8/20/2021 16:40:53,u1601064@student.cuet.ac.bd,Md Sakib Ahamed,1601064,CE,2nd dose done
+8/20/2021 19:44:59,u1601066@student.cuet.ac.bd,RAISA TABASSUM IRA,1601066,CE,2nd dose done
+8/20/2021 21:10:28,u1601067@student.cuet.ac.bd,Asfak shakil ,1601067,CE,2nd dose done
+8/20/2021 21:13:15,u1601069@student.cuet.ac.bd,PARTHA ROY ,1601069,CE,Registration done but no vaccination yet
+8/20/2021 16:00:07,u1601070@student.cuet.ac.bd,Md. Ashiqur Rahman,1601070,CE,2nd dose done
+8/21/2021 17:04:34,u1601072@student.cuet.ac.bd,Md. Shahadat Hossain,1601072,CE,2nd dose done
+8/21/2021 9:05:04,u1601073@student.cuet.ac.bd,Md. Fahim Shahriar Sakib ,1601073,CE,2nd dose done
+8/20/2021 21:38:18,u1601074@student.cuet.ac.bd,Md Jahedul Islam ,1601074,CE,2nd dose done
+8/20/2021 22:03:47,u1601075@student.cuet.ac.bd,Md. Selim Reza,1601075,CE,Registration done but no vaccination yet
+8/20/2021 15:17:44,u1601076@student.cuet.ac.bd,Gourab Saha,1601076,CE,1st dose done + 2nd dose date given
+8/20/2021 16:00:25,U1601079@student.cuet.ac.bd,TALHA IBNA KARIM,1601079,CE,2nd dose done
+8/20/2021 21:12:44,u1601081@student.cuet.ac.bd,Minhaz Uddin Shourav,1601081,CE,2nd dose done
+8/20/2021 15:14:59,u1601085@student.cuet.ac.bd,Souman Bikash Das,1601085,CE,1st dose done + 2nd dose date not given yet
+8/20/2021 19:32:50,u1601086@student.cuet.ac.bd,SADIA AHMED MOMO,1601086,CE,2nd dose done
+8/20/2021 21:17:37,u1601087@student.cuet.ac.bd,Mohammed Kamruzzaman ,1601087,CE,2nd dose done
+8/20/2021 21:45:46,u1601090@student.cuet.ac.bd,Md. Sadiur Rahman ,1601090,CE,Registration done but no vaccination yet
+8/20/2021 19:31:49,u1601091@student.cuet.ac.bd,Tamanna Tashnim ,1601091,CE,2nd dose done
+8/20/2021 15:54:08,u1601092@student.cuet.ac.bd,FOISAL ALAM SAJID,1601092,CE,Registration done but no vaccination yet
+8/20/2021 21:34:45,u1601093@student.cuet.ac.bd,MD. TARIQUL ISLAM ,1601093,CE,1st dose done + 2nd dose date given
+8/20/2021 15:22:20,u1601094@student.cuet.ac.bd,Johirul Islam ,1601094,CE,2nd dose done
+8/24/2021 13:00:54,u1601095@student.cuet.ac.bd,MD. AL-AMIN ,1601095,CE,2nd dose done
+8/20/2021 22:06:40,u1601098@student.cuet.ac.bd,Sonia Deb,1601098,CE,2nd dose done
+8/20/2021 18:18:05,u1601099@student.cuet.ac.bd,Md.Shafayat Jamil,1601099,CE,2nd dose done
+8/20/2021 15:16:05,u1601100@student.cuet.ac.bd,MD. JULFIKAR JAHAN,1601100,CE,2nd dose done
+8/20/2021 21:21:55,u1601101@student.cuet.ac.bd,Rakib Hussain,1601101,CE,2nd dose done
+9/6/2021 14:05:48,u1601102@student.cuet.ac.bd,AZHAR UDDIN,1601102,CE,2nd dose done
+8/20/2021 20:42:29,u1601103@student.cuet.ac.bd,Umme Salma,1601103,CE,2nd dose done
+8/20/2021 16:34:38,u1601104@student.cuet.ac.bd,MD.MAHMUDUL HASAN ARIF,1601104,CE,2nd dose done
+8/20/2021 15:17:58,u1601105@student.cuet.ac.bd,Siam Sarker,1601105,CE,Registration done but no vaccination yet
+8/24/2021 13:02:59,u1601106@student.cuet.ac.bd,mahdi meraj toqey,1601106,CE,2nd dose done
+8/20/2021 15:23:12,u1601107@student.cuet.ac.bd,Md hasibul hasan,1601107,CE,2nd dose done
+8/20/2021 20:36:47,u1601108@student.cuet.ac.bd,MD. Masudur Rahman Shubha,1601108,CE,2nd dose done
+8/20/2021 16:44:20,u1601109@student.cuet.ac.bd,Mahenoor Tahsin Prapti,1601109,CE,2nd dose done
+8/20/2021 21:31:57,u1601110@student.cuet.ac.bd,Akib Ahmed,1601110,CE,Registration done but no vaccination yet
+9/6/2021 11:16:02,u1601111@student.cuet.ac.bd,Md.Al mamun,1601111,CE,1st dose done + 2nd dose date not given yet
+8/20/2021 15:15:44,u1601112@student.cuet.ac.bd,Muntasir Mamun,1601112,CE,2nd dose done
+8/20/2021 16:00:59,u1601113@student.cuet.ac.bd,Asif Mohammad Sami,1601113,CE,1st dose done + 2nd dose date not given yet
+8/20/2021 16:27:33,u1601114@student.cuet.ac.bd,Qazi Irfan Ghyas,1601114,CE,2nd dose done
+8/20/2021 21:45:18,u1601115@student.cuet.ac.bd,Md.Tasneem Hossain Raju,1601115,CE,Registration done but no vaccination yet
+8/20/2021 21:15:39,u1601116@student.cuet.ac.bd,Md. Sabbir ul Islam ,1601116,CE,1st dose done + 2nd dose date given
+8/23/2021 0:54:33,u1601117@student.cuet.ac.bd,Rashed Prodhan,1601117,CE,Registration done but no vaccination yet
+8/20/2021 21:29:25,u1601119@student.cuet.ac.bd,Siratul Mustakim Suad,1601119,CE,Registration done but no vaccination yet
+8/20/2021 22:09:58,u1601120@student.cuet.ac.bd,Sagarmoy Acharjee,1601120,CE,Registration done but no vaccination yet
+8/20/2021 15:36:42,u1601121@student.cuet.ac.bd,Prachi Rini Saha,1601121,CE,Registration done but no vaccination yet
+8/21/2021 16:24:36,u1601123@student.cuet.ac.bd,Nahid Sultan ,1601123,CE,2nd dose done
+8/20/2021 18:03:15,u1601124@student.cuet.ac.bd,Farhan Sadek Efaz,1601124,CE,1st dose done + 2nd dose date given
+8/20/2021 18:14:22,u1601125@student.cuet.ac.bd,Mostafa Humayun Akram,1601125,CE,2nd dose done
+8/24/2021 13:03:22,u1601127@student.cuet.ac.bd,Md. Mehedi Hasan ,1601127,CE,Couldn’t Register yet (or no NID)
+8/20/2021 16:22:31,u1601130@student.cuet.ac.bd,Pranjol Chakraborty ,1601130,CE,Registration done but no vaccination yet
+8/20/2021 23:06:59,u1602001@student.cuet.ac.bd,Md.Ataur Rahman,1602001,EEE,Couldn’t Register yet (or no NID)
+8/20/2021 21:20:22,u1602003@student.cuet.ac.bd,Dilruba Alam ,1602003,EEE,2nd dose done
+8/20/2021 22:03:04,u1602004@student.cuet.ac.bd,Habibur Rahman,1602004,EEE,2nd dose done
+8/20/2021 21:31:16,u1602006@student.cuet.ac.bd,Mahbub Anam,1602006,EEE,1st dose done + 2nd dose date given
+8/20/2021 21:22:40,u1602007@student.cuet.ac.bd,Shakil Mahmud,1602007,EEE,2nd dose done
+8/22/2021 2:09:41,u1602008@student.cuet.ac.bd,Nayem Al Kayed,1602008,EEE,2nd dose done
+8/20/2021 21:17:10,u1602009@student.cuet.ac.bd,Sheikh MD Sujan,1602009,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:52:36,u1602010@student.cuet.ac.bd,Husnur Rahman Turin,1602010,EEE,Registration done but no vaccination yet
+8/20/2021 21:15:49,u1602011@student.cuet.ac.bd,Zamilur Reza Mazumder ,1602011,EEE,2nd dose done
+8/20/2021 21:25:03,u1602012@student.cuet.ac.bd,Sourave Deb,1602012,EEE,2nd dose done
+8/20/2021 21:17:07,u1602013@student.cuet.ac.bd,Md. Mobarak Hossain ,1602013,EEE,2nd dose done
+8/24/2021 2:26:58,u1602014@student.cuet.ac.bd,Md. Belal Uddin Sifat ,1602014,EEE,Registration done but no vaccination yet
+8/30/2021 17:56:12,u1602015@student.cuet.ac.bd,Smita Das,1602015,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 22:32:30,u1602016@student.cuet.ac.bd,Mahmudur Rahman,1602016,EEE,Registration done but no vaccination yet
+8/20/2021 21:39:27,u1602017@student.cuet.ac.bd,Nazmul Hasan Biddut,1602017,EEE,1st dose done + 2nd dose date given
+8/20/2021 21:08:17,u1602018@student.cuet.ac.bd,Enamul,1602018,EEE,Registration done but no vaccination yet
+8/20/2021 22:06:20,u1602019@student.cuet.ac.bd,Abu Adnan,1602019,EEE,2nd dose done
+8/20/2021 21:26:51,u1602020@student.cuet.ac.bd,Jannatul Ferdous ,1602020,EEE,1st dose done + 2nd dose date given
+8/20/2021 21:26:11,u1602021@student.cuet.ac.bd,Jayeed Bin Kibria,1602021,EEE,Couldn’t Register yet (or no NID)
+8/23/2021 17:21:11,u1602023@student.cuet.ac.bd,Muhammad Fahadul Islam ,1602023,EEE,Couldn’t Register yet (or no NID)
+8/22/2021 2:13:44,u1602024@student.cuet.ac.bd,mehedi hassan,1602024,EEE,Couldn’t Register yet (or no NID)
+8/20/2021 22:20:59,u1602025@student.cuet.ac.bd,MD. SHARIFUL ALAM MOZUMDER ,1602025,EEE,2nd dose done
+8/21/2021 19:10:06,u1602026@student.cuet.ac.bd,Habibullah Kowser,1602026,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:32:16,u1602028@student.cuet.ac.bd,Samia Khondoker Joya,1602028,EEE,2nd dose done
+8/20/2021 21:14:24,u1602029@student.cuet.ac.bd,Samira yasmin ,1602029,EEE,2nd dose done
+8/24/2021 13:39:23,u1602030@student.cuet.ac.bd,Md.Fahim Jamir Adar ,1602030,EEE,Registration done but no vaccination yet
+8/21/2021 0:59:05,u1602031@student.cuet.ac.bd,Abir Hasan,1602031,EEE,2nd dose done
+8/20/2021 22:00:55,u1602033@student.cuet.ac.bd,Fatema Faiza,1602033,EEE,1st dose done + 2nd dose date given
+8/30/2021 17:10:33,u1602034@student.cuet.ac.bd,MD Saiful Islam ,1602034,EEE,Registration done but no vaccination yet
+8/20/2021 21:19:05,u1602035@student.cuet.ac.bd,Md. Sahinur Rahman,1602035,EEE,Registration done but no vaccination yet
+8/20/2021 21:24:42,u1602036@student.cuet.ac.bd,Md. Karimul Hasan,1602036,EEE,2nd dose done
+8/20/2021 21:31:13,u1602037@student.cuet.ac.bd,Md. Abu Nayeem Patwary,1602037,EEE,1st dose done + 2nd dose date given
+8/20/2021 21:22:50,u1602038@student.cuet.ac.bd,Shahedul Alam ,1602038,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:17:04,u1602040@student.cuet.ac.bd,Munmun Jahan,1602040,EEE,Registration done but no vaccination yet
+8/30/2021 13:53:04,u1602041@student.cuet.ac.bd,Md. Riad,1602041,EEE,2nd dose done
+8/20/2021 16:02:40,u1602042@student.cuet.ac.bd,Nosin Anjum,1602042,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:17:06,u1602044@student.cuet.ac.bd,Emteaj Mahmud,1602044,EEE,2nd dose done
+8/20/2021 21:52:33,u1602045@student.cuet.ac.bd,Asif Noimuddin  Ahmad ,1602045,EEE,2nd dose done
+8/20/2021 21:20:49,u1602046@student.cuet.ac.bd,Ankur Das Avi,1602046,EEE,2nd dose done
+8/30/2021 13:39:13,u1602047@student.cuet.ac.bd,Hadi Istiak Ahmed Ifty,1602047,EEE,2nd dose done
+8/20/2021 21:15:18,u1602048@student.cuet.ac.bd,Imran rivan,1602048,EEE,2nd dose done
+8/20/2021 22:53:42,u1602049@student.cuet.ac.bd,Kazi Zobair Alam,1602049,EEE,Registration done but no vaccination yet
+8/20/2021 21:23:27,u1602050@student.cuet.ac.bd,Samiha Ahmed,1602050,EEE,1st dose done + 2nd dose date given
+8/24/2021 13:49:51,u1602051@student.cuet.ac.bd,Al Araf,1602051,EEE,2nd dose done
+8/20/2021 21:48:09,u1602052@student.cuet.ac.bd,Kazol chandra roy ,1602052,EEE,Registration done but no vaccination yet
+8/20/2021 21:13:08,u1602053@student.cuet.ac.bd,Tiham Fayaz,1602053,EEE,2nd dose done
+8/21/2021 21:14:09,u1602054@student.cuet.ac.bd,Md. Shamsul Islam,1602054,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:48:57,u1602055@student.cuet.ac.bd,Sujoy Bhattacharjee,1602055,EEE,2nd dose done
+8/20/2021 23:01:13,u1602056@student.cuet.ac.bd,Hasan Md. Niaz,1602056,EEE,2nd dose done
+8/20/2021 21:14:43,u1602057@student.cuet.ac.bd,Nazmul Islam Tareq,1602057,EEE,2nd dose done
+8/20/2021 21:27:00,u1602058@student.cuet.ac.bd,Aninda Utsab Chowdhury ,1602058,EEE,2nd dose done
+8/20/2021 22:03:58,u1602061@student.cuet.ac.bd,Md. Marufur Rahman,1602061,EEE,2nd dose done
+8/20/2021 23:26:56,u1602062@student.cuet.ac.bd,Montasir Nahiyan,1602062,EEE,2nd dose done
+8/20/2021 21:32:41,u1602063@student.cuet.ac.bd,Trishita Ghosh Troyee,1602063,EEE,2nd dose done
+8/23/2021 17:30:58,u1602065@student.cuet.ac.bd,Misuk Sadagor,1602065,EEE,1st dose done + 2nd dose date given
+8/20/2021 23:37:41,u1602066@student.cuet.ac.bd,Mushfiqur Rahman Lubab,1602066,EEE,2nd dose done
+8/21/2021 9:30:14,u1602067@student.cuet.ac.bd,Monjila Afrin Dorothi,1602067,EEE,2nd dose done
+8/20/2021 21:34:00,u1602068@student.cuet.ac.bd,Rakayet Rafi,1602068,EEE,Registration done but no vaccination yet
+8/20/2021 21:30:08,u1602069@student.cuet.ac.bd,Md.Tamzid Ahmed,1602069,EEE,Registration done but no vaccination yet
+8/20/2021 23:43:54,u1602070@student.cuet.ac.bd,Soumya Swaraj,1602070,EEE,1st dose done + 2nd dose date not given yet
+8/21/2021 9:45:18,asifulsakib48@gmail.com,Md.Asiful Islam Sakib,1602071,EEE,1st dose done + 2nd dose date given
+8/30/2021 14:33:34,u1602072@student.cuet.ac.bd,Rojot Kanti Sutradhar ,1602072,EEE,2nd dose done
+8/20/2021 21:21:08,u1602073@student.cuet.ac.bd,Abdullah Al Miraj ,1602073,EEE,2nd dose done
+8/20/2021 22:02:05,u1602074@student.cuet.ac.bd,Md. Alauddin Bhuiyan,1602074,EEE,1st dose done + 2nd dose date given
+8/21/2021 9:55:52,u1602076@student.cuet.ac.bd,Md.Zihad Hossain,1602076,EEE,2nd dose done
+8/20/2021 22:30:42,u1602077@student.cuet.ac.bd,Nur Uddin,1602077,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 22:01:15,u1602079@student.cuet.ac.bd,Taufiq Ibrahim ,1602079,EEE,2nd dose done
+8/20/2021 21:16:03,u1602080@student.cuet.ac.bd,S.M Rifat Ibna Musa ,1602080,EEE,Couldn’t Register yet (or no NID)
+8/20/2021 21:16:34,u1602082@student.cuet.ac.bd,Rahatul Raihan Mahim,1602082,EEE,2nd dose done
+8/20/2021 21:17:28,u1602083@student.cuet.ac.bd,Priyam Saha,1602083,EEE,2nd dose done
+8/21/2021 11:02:18,u1602084@student.cuet.ac.bd,Israt Jahin Fariha  ,1602084,EEE,1st dose done + 2nd dose date not given yet
+8/21/2021 1:10:53,u1602086@student.cuet.ac.bd,Nadira Shobnom Momo ,1602086,EEE,2nd dose done
+8/20/2021 21:29:02,u1602088@student.cuet.ac.bd,Biplob Roy,1602088,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 22:45:59,u1602090@student.cuet.ac.bd,Abdullah Md. Zobayer,1602090,EEE,Registration done but no vaccination yet
+8/20/2021 21:25:19,u1602091@student.cuet.ac.bd,Syed Shamiul Islam,1602091,EEE,1st dose done + 2nd dose date not given yet
+8/23/2021 0:48:43,u1602092@student.cuet.ac.bd,Tasnia Sultana ,1602092,EEE,1st dose done + 2nd dose date given
+8/20/2021 23:20:23,u1602093@student.cuet.ac.bd,Mahmudul Hasan Rimon,1602093,EEE,2nd dose done
+8/20/2021 21:23:41,u1602094@student.cuet.ac.bd,Shahin Akter,1602094,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:46:47,u1602095@student.cuet.ac.bd,Faisal Ahmed Chowdhury,1602095,EEE,2nd dose done
+8/20/2021 21:52:25,u1602096@student.cuet.ac.bd,Fazlay Rabbi,1602096,EEE,Registration done but no vaccination yet
+8/20/2021 22:01:51,u1602097@student.cuet.ac.bd,Fabiha Khan,1602097,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:11:45,u1602098@student.cuet.ac.bd,Naosher Mustakim,1602098,EEE,2nd dose done
+8/20/2021 23:30:25,u1602099@student.cuet.ac.bd,Saiful Islam Bablu  ,1602099,EEE,1st dose done + 2nd dose date given
+8/20/2021 21:13:36,u1602100@student.cuet.ac.bd,Jannatul Mahi Khan,1602100,EEE,Registration done but no vaccination yet
+8/20/2021 23:31:12,u1602102@student.cuet.ac.bd,Nozat Hossain ,1602102,EEE,1st dose done + 2nd dose date not given yet
+8/20/2021 22:39:10,u1602103@student.cuet.ac.bd,Md. Safiullah Bhuyan ,1602103,EEE,Registration done but no vaccination yet
+8/20/2021 21:30:11,u1602104@student.cuet.ac.bd,Shoel Rana ,1602104,EEE,Registration done but no vaccination yet
+8/20/2021 21:17:38,u1602105@student.cuet.ac.bd,Rifat Zabin ,1602105,EEE,2nd dose done
+8/20/2021 21:14:58,u1602106@student.cuet.ac.bd,Labanya Barua ,1602106,EEE,2nd dose done
+8/20/2021 21:19:28,u1602107@student.cuet.ac.bd,Asif Mahbub Uddin,1602107,EEE,Registration done but no vaccination yet
+8/20/2021 21:23:21,u1602108@student.cuet.ac.bd,Md.Limonur Islam Limon,1602108,EEE,Registration done but no vaccination yet
+8/20/2021 21:19:43,u1602109@student.cuet.ac.bd,Md. Imdadul Hoque Rabbi,1602109,EEE,2nd dose done
+8/20/2021 22:16:45,u1602110@student.cuet.ac.bd,Sharmin Shultana,1602110,EEE,2nd dose done
+8/20/2021 21:18:35,u1602111@student.cuet.ac.bd,Md. Ashiqur Rahman,1602111,EEE,2nd dose done
+8/20/2021 21:15:01,u1602112@student.cuet.ac.bd,Md. Ahad Hossain,1602112,EEE,Registration done but no vaccination yet
+8/20/2021 21:29:29,u1602113@student.cuet.ac.bd,Md. Sazidul Haque,1602113,EEE,1st dose done + 2nd dose date given
+8/23/2021 19:44:01,u1602114@student.cuet.ac.bd,Un-Nisha- Liaquat Usha,1602114,EEE,2nd dose done
+8/20/2021 21:46:14,u1602115@student.cuet.ac.bd,Shuvra Sarker,1602115,EEE,2nd dose done
+8/20/2021 21:18:42,u1602116@student.cuet.ac.bd,Md Injamam Ul Hoque,1602116,EEE,2nd dose done
+8/20/2021 21:07:50,u1602117@student.cuet.ac.bd,Md. Jahidur Rahman,1602117,EEE,1st dose done + 2nd dose date given
+8/22/2021 10:21:32,u1602119@student.cuet.ac.bd,S.M.Eashir Arafat Bijoy ,1602119,EEE,2nd dose done
+8/20/2021 21:16:43,u1602121@student.cuet.ac.bd,Anindya Sundar Masid,1602121,EEE,2nd dose done
+8/20/2021 22:49:50,u1602122@student.cuet.ac.bd,Nazmul Islam ,1602122,EEE,1st dose done + 2nd dose date given
+8/20/2021 21:46:19,u1602123@student.cuet.ac.bd,Moshammed Nishat Tasnim  ,1602123,EEE,1st dose done + 2nd dose date given
+8/20/2021 23:28:00,u1602124@student.cuet.ac.bd,MD. Mahadi Hasan Sajib,1602124,EEE,2nd dose done
+8/20/2021 22:09:36,u1602125@student.cuet.ac.bd,Arif Mia,1602125,EEE,Registration done but no vaccination yet
+8/20/2021 21:50:28,u1602127@student.cuet.ac.bd,Md.Sazzad Hossain Masum ,1602127,EEE,2nd dose done
+8/21/2021 17:36:37,u1602128@student.cuet.ac.bd,Merajul Mostakim Ahmed ,1602128,EEE,2nd dose done
+8/20/2021 22:17:31,u1602129@student.cuet.ac.bd,Zubair Hossain ,1602129,EEE,Couldn’t Register yet (or no NID)
+8/20/2021 21:48:11,u1602130@student.cuet.ac.bd,Shyeeda Sumaiya ,1602130,EEE,Registration done but no vaccination yet
+8/21/2021 23:53:07,u1603005@student.cuet.ac.bd,Shihab Ar-Rasad,1603005,ME,2nd dose done
+8/24/2021 13:45:22,u1603007@student.cuet.ac.bd,Partha Das,1603007,ME,Registration done but no vaccination yet
+8/20/2021 22:05:53,u1603009@student.cuet.ac.bd,Md.Sakib Hossain,1603009,ME,2nd dose done
+8/20/2021 21:33:38,u1603016@student.cuet.ac.bd,Shantanu Saha,1603016,ME,Couldn’t Register yet (or no NID)
+8/20/2021 21:52:23,u1603020@student.cuet.ac.bd,Md Afzalul Islam chowdhury ,1603020,ME,2nd dose done
+8/20/2021 21:20:34,u1603021@student.cuet.ac.bd,Anupam Kumar Nath,1603021,ME,2nd dose done
+8/24/2021 13:34:03,u1603024@student.cuet.ac.bd,Samrat Hossen Akib,1603024,ME,1st dose done + 2nd dose date not given yet
+8/21/2021 10:32:59,u1603025@student.cuet.ac.bd,Samiul Alim,1603025,ME,2nd dose done
+8/20/2021 23:13:03,u1603028@student.cuet.ac.bd,Redoy masum meraz,1603028,ME,2nd dose done
+8/20/2021 22:04:58,u1603031@student.cuet.ac.bd,Ibrahim islam raju,1603031,ME,Registration done but no vaccination yet
+8/24/2021 13:02:02,u1603032@student.cuet.ac.bd,Asifur Rahman ,1603032,ME,1st dose done + 2nd dose date not given yet
+8/20/2021 21:09:30,u1603033@student.cuet.ac.bd,MD. RAHIMUL ISLAM,1603033,ME,2nd dose done
+8/21/2021 11:58:16,u1603034@student.cuet.ac.bd,Md. Imamul Alam Ishat,1603034,ME,Registration done but no vaccination yet
+8/24/2021 12:59:14,u1603035@student.cuet.ac.bd,Abdur Rahman Aad,1603035,ME,2nd dose done
+8/30/2021 14:46:17,u1603036@student.cuet.ac.bd,Habibe Mostofa ,1603036,ME,1st dose done + 2nd dose date given
+8/24/2021 13:17:37,u@student.cuet.ac.bd,Md Uday Ali,1603039,ME,2nd dose done
+8/20/2021 23:07:51,u1603040@student.cuet.ac.bd,MD.RAFAT RAHMAN RIDAY,1603040,ME,2nd dose done
+8/20/2021 21:28:13,u1603043@student.cuet.ac.bd,Ahmed Imtiaz,1603043,ME,2nd dose done
+8/20/2021 23:48:32,u1603044@student.cuet.ac.bd,Firoz Ahmed Chowdhury ,1603044,ME,2nd dose done
+8/30/2021 13:52:43,u1603047@student.cuet.ac.bd,Rafsan Rafin Khan,1603047,ME,1st dose done + 2nd dose date not given yet
+8/20/2021 21:40:32,u1603052@student.cuet.ac.bd,MD ABIDUN NUR TUSHER,1603052,ME,Registration done but no vaccination yet
+8/20/2021 23:05:14,u1603054@student.cuet.ac.bd,Mursalin Habib Niloy,1603054,ME,2nd dose done
+8/21/2021 23:56:42,u1603055@student.cuet.ac.bd,Nadia akter,1603055,ME,2nd dose done
+8/20/2021 21:13:44,u1603056@student.cuet.ac.bd,Pranta Dutt,1603056,ME,2nd dose done
+8/24/2021 12:57:39,u1603057@student.cuet.ac.bd,Krishno Kumar,1603057,ME,2nd dose done
+8/24/2021 13:00:05,u1603058@student.cuet.ac.bd,MD Nayem Hasan,1603058,ME,2nd dose done
+8/20/2021 21:32:46,u1603060@student.cuet.ac.bd,Md. Asif Ali ,1603060,ME,Registration done but no vaccination yet
+8/20/2021 21:34:45,u1603062@student.cuet.ac.bd,Md. Towfikul Islam Talukder,1603062,ME,Couldn’t Register yet (or no NID)
+8/20/2021 22:14:12,u1603065@student.cuet.ac.bd,Md Shohul Afzal ,1603065,ME,Registration done but no vaccination yet
+8/24/2021 12:51:26,u1603066@student.cuet.ac.bd,Rupak Saha,1603066,ME,2nd dose done
+8/20/2021 22:04:15,u1603069@student.cuet.ac.bd,Tamim Ahomod Khan Alfee,1603069,ME,1st dose done + 2nd dose date given
+8/24/2021 13:01:01,u1603074@student.cuet.ac.bd,Noor Mohammad Roni,1603074,ME,Registration done but no vaccination yet
+8/24/2021 13:03:30,rafiulrijvy@gmail.com,MD RAFIUL HOSSAIN ,1603075,ME,Registration done but no vaccination yet
+8/20/2021 21:40:08,shimantadas777@gmail.com,Shimanta Das,1603079,ME,2nd dose done
+8/20/2021 21:22:59,u1603082@student.cuet.ac.bd,Md. Main Uddin Sagar,1603082,ME,2nd dose done
+8/24/2021 12:58:29,u1603083@student.cuet.ac.bd,IBRAHIM KHALIL APURBA ,1603083,ME,2nd dose done
+8/23/2021 8:28:47,u1603085@student.cuet.ac.bd,Md. Mostafijur Rahman Moon,1603085,ME,Registration done but no vaccination yet
+8/21/2021 10:44:45,u1603088@student.cuet.ac.bd,Turjo Ghoshal,1603088,ME,2nd dose done
+8/20/2021 21:25:53,u1603091@student.cuet.ac.bd,Abir Saha,1603091,ME,2nd dose done
+8/22/2021 0:01:32,u1603092@student.cuet.ac.bd,Ali Amjad,1603092,ME,Registration done but no vaccination yet
+8/20/2021 21:55:29,fahimh845@gmail.com,Fahim Hasan Sany,1603095,ME,2nd dose done
+8/20/2021 21:47:31,u1603096@student.cuet.ac.bd,Toukir Ahmed Chowdhury,1603096,ME,2nd dose done
+8/30/2021 15:33:11,u1603097@student.cuet.ac.bd,Md. Bayazid Ahmed ,1603097,ME,2nd dose done
+8/20/2021 22:11:40,imamuddinriad@gmail.com,Mohammed Imam Uddin Riad,1603100,ME,1st dose done + 2nd dose date not given yet
+8/20/2021 21:33:52,u1603101@student.cuet.ac.bd,Istieak Kamal Aiman,1603101,ME,Registration done but no vaccination yet
+8/20/2021 21:43:02,shitolroy16@gmail.com,Shetal Roy,1603104,ME,Registration done but no vaccination yet
+8/20/2021 21:31:20,u1603107@student.cuet.ac.bd,S. M. Mohaiminul Islam,1603107,ME,2nd dose done
+8/30/2021 13:39:31,u1603109@student.cuet.ac.bd,Mohammad Abid Hossain,1603109,ME,1st dose done + 2nd dose date not given yet
+8/21/2021 22:31:34,u1603111@student.cuet.ac.bd,Md Eyasin Hossain,1603111,ME,2nd dose done
+8/23/2021 16:41:12,u1603115@student.cuet.ac.bd,Utsha Ghosh Dipta,1603115,ME,2nd dose done
+8/20/2021 21:33:23,u1603116@student.cuet.ac.bd,Aoyon Paul,1603116,ME,1st dose done + 2nd dose date given
+8/20/2021 21:34:05,u1603118@student.ac.cuet.bd,Faisal Ahmed,1603118,ME,2nd dose done
+8/20/2021 21:27:14,u1693120@student.cuet.ac.bd,Ahmad Abdullah Mujahid ,1603120,ME,2nd dose done
+8/20/2021 23:47:12,u1603120@student.cuet.ac.bd,Mustahsin Reasad,1603121,ME,Registration done but no vaccination yet
+8/20/2021 21:32:14,u1603122@student.cuet.ac.bd,Mohammad Mahmudul Islam ,1603122,ME,2nd dose done
+8/20/2021 21:42:33,u1603123@student.cuet.ac.bd,Atikur rahman khan,1603123,ME,2nd dose done
+8/20/2021 21:50:29,u1603127@student.cuet.ac.bd,Subash Chandra Dash,1603127,ME,2nd dose done
+8/24/2021 13:09:03,u1603129@student.cuet.ac.bd,Mehedi Hasan,1603129,ME,Registration done but no vaccination yet
+8/30/2021 16:08:37,mamunurpapel@gmail.com,Mamunur Rashid Papel ,1603130,ME,1st dose done + 2nd dose date not given yet
+8/20/2021 16:39:57,u1604001@student.cuet.ac.bd,Suborno Deb Bappon,1604001,CSE,2nd dose done
+8/20/2021 18:34:41,u1604002@student.cuet.ac.bd,Sadia Islam,1604002,CSE,1st dose done + 2nd dose date given
+8/20/2021 16:37:33,u1604003@student.cuet.ac.bd,Md. Eftikhar Azim,1604003,CSE,Registration done but no vaccination yet
+8/20/2021 22:05:35,u1604004@student.cuet.ac.bd,Afroza Akter,1604004,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 17:48:30,u1604006@student.cuet.ac.bd,Nabila Nawal,1604006,CSE,1st dose done + 2nd dose date given
+8/20/2021 17:50:56,palpranta@gmail.com,Suresh Paul Pranta,1604007,CSE,Registration done but no vaccination yet
+8/30/2021 14:23:02,u1604008@student.cuet.ac.bd,Saiful Alam,1604008,CSE,2nd dose done
+8/20/2021 16:39:49,u1604009@student.cuet.ac.bd,Fatema Tabassum ,1604009,CSE,2nd dose done
+8/30/2021 19:40:39,u1604010@student.cuet.ac.bd,Sagufta Sabah Nakshi   ,1604010,CSE,2nd dose done
+8/20/2021 18:33:59,u1604011@student.cuet.ac.bd,Sharmin Akter ,1604011,CSE,1st dose done + 2nd dose date given
+8/20/2021 16:48:46,u1604012@student.cuet.ac.bd,Md.Raufur Rahman ,1604012,CSE,2nd dose done
+8/20/2021 16:39:03,shahriarmahmud292@gmail.com,Shahriar Mahmud Sabuj,1604013,CSE,Registration done but no vaccination yet
+8/21/2021 0:16:22,i1604014@student.cuet.ac.bd,Golam Sarwar Md. Mursalin ,1604014,CSE,2nd dose done
+8/20/2021 20:10:20,u1604015@student.cuet.ac.bd,Jarin Tasnim Tonvi,1604015,CSE,2nd dose done
+8/30/2021 13:48:27,u1604016@student.cuet.ac.bd,Meherun Nesa Shraboni,1604016,CSE,2nd dose done
+8/20/2021 17:07:47,u1604017@student.cuet.ac.bd,Shaniza Rokeya Rahman,1604017,CSE,Registration done but no vaccination yet
+8/24/2021 13:23:52,u1604018@student.cuet.ac.bd,Takia Ibnath,1604018,CSE,2nd dose done
+8/20/2021 17:49:20,u1604020@student.cuet.ac.bd,Md.Mahadi Hasan,1604020,CSE,2nd dose done
+8/20/2021 19:23:36,u1604022@student.cuet.ac.bd,Farhana Akter,1604022,CSE,2nd dose done
+8/20/2021 18:39:22,u1604024@student.cuet.ac.bd,A. S. M. Mofakh-Kharul Islam,1604024,CSE,2nd dose done
+8/20/2021 16:54:47,u1604026@student.cuet.ac.bd,Sibbir Ahmed ,1604026,CSE,Registration done but no vaccination yet
+8/20/2021 16:36:45,u1604027@student.cuet.ac.bd,Nahid Riaz Swachha,1604027,CSE,Registration done but no vaccination yet
+8/20/2021 19:47:00,u1604028@student.cuet.ac.bd,Shawnock Guha Paul,1604028,CSE,2nd dose done
+8/20/2021 23:32:12,u1604029@student.cuet.ac.bd,Md. Ahnaf Alam,1604029,CSE,Registration done but no vaccination yet
+8/20/2021 16:38:24,u1604030@student.cuet.ac.bd,Shoilee Dutta,1604030,CSE,1st dose done + 2nd dose date given
+8/20/2021 17:36:27,u1604032@student.cuet.ac.bd,Md. Mehedi Hassan ,1604032,CSE,2nd dose done
+8/20/2021 17:00:42,u1604033@student.cuet.ac.bd,Tahir Talha Prodhan,1604033,CSE,1st dose done + 2nd dose date given
+8/20/2021 21:13:32,u1604034@student.cuet.ac.bd,Md.aminul islam,1604034,CSE,Registration done but no vaccination yet
+8/20/2021 16:40:35,u1604035@student.cuet.ac.bd,Sabiha Samad,1604035,CSE,2nd dose done
+8/20/2021 18:19:16,u1604036@student.cuet.ac.bd,Md ibrahim sadek bhuiyan ,1604036,CSE,Registration done but no vaccination yet
+8/20/2021 16:37:12,u1604037@student.cuet.ac.bd,Md. Muzahidul Islam,1604037,CSE,2nd dose done
+8/21/2021 22:24:31,ratulbhowmick65@gmail.com,Ratul Bhowmick ,1604038,CSE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:41:34,u1604039@student.cuet.ac.bd,Sabitri Sikder,1604039,CSE,Registration done but no vaccination yet
+8/20/2021 16:52:39,u1604040@student.cuet.ac.bd,Syed Ahnaf Adib Ahmed,1604040,CSE,2nd dose done
+8/20/2021 20:33:35,u1604041@student.cuet.ac.bd,Adiba Ibnat Hossain ,1604041,CSE,Registration done but no vaccination yet
+8/20/2021 22:13:12,u1604044@student.cuet.ac.bd,Sharmin Ara,1604044,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 16:36:07,u1604045@student.cuet.ac.bd,Md. Faridul Islam ,1604045,CSE,2nd dose done
+8/20/2021 17:31:07,u1604046@student.cuet.ac.bd,Maliha Jahan Chowdhury,1604046,CSE,2nd dose done
+8/21/2021 14:28:26,u1604047@student.cuet.ac.bd,Tapajit Chandra Paul,1604047,CSE,2nd dose done
+8/20/2021 16:37:21,u1604048@student.cuet.ac.bd,Samsun naher,1604048,CSE,2nd dose done
+8/30/2021 13:43:30,u1604050@student.cuet.ac.bd,A.R.SANA  ULLAH ,1604050,CSE,2nd dose done
+8/20/2021 17:47:53,afif2011fahim@gmail.com,S. M. Afif Ibne Hayat,1604051,CSE,2nd dose done
+8/20/2021 17:40:14,sadmansakib6826@gmail.com,Sadman Sakib Choudhury,1604052,CSE,2nd dose done
+8/20/2021 19:35:40,u1604053@student.cuet.ac.bd,Kaniz Fatima Tonni ,1604053,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 16:39:42,u1604054@student.cuet.ac.bd,Anupam Das,1604054,CSE,Registration done but no vaccination yet
+8/30/2021 16:32:23,u1604055@student.cuet.ac.bd,Ariful Islam,1604055,CSE,2nd dose done
+8/20/2021 18:53:26,u1604056@student.cuet.ac.bd,Md. Nizam Uddin,1604056,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 18:16:11,u1604057@student.cuet.ac.bd,Md. Akram Hossain,1604057,CSE,Registration done but no vaccination yet
+8/20/2021 17:12:11,u1604059@student.cuet.ac.bd,MD. Rakibul Hassan Chowdory,1604059,CSE,Registration done but no vaccination yet
+8/20/2021 16:46:05,u1604060@student.cuet.ac.bd,Rakibul islam,1604060,CSE,2nd dose done
+8/20/2021 17:08:25,u1604061@student.cuet.ac.bd,Saiful Islam Rimon,1604061,CSE,1st dose done + 2nd dose date not given yet
+8/24/2021 13:32:09,u1604062@student.cuet.ac.bd,Karabi kumari medha,1604062,CSE,Registration done but no vaccination yet
+8/20/2021 21:12:13,u1604063@student.cuet.ac.bd,Tabassum Akter Nusrat,1604063,CSE,1st dose done + 2nd dose date given
+8/20/2021 22:02:28,u1604064@student.cuet.ac.bd,Md. Shariful Islam,1604064,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 17:16:12,u1604065@student.cuet.ac.bd,Labib Ahmed,1604065,CSE,Registration done but no vaccination yet
+8/20/2021 16:49:23,u1604066@student.cuet.ac.bd,Md Shihab Hossain,1604066,CSE,2nd dose done
+8/20/2021 17:35:01,u1604067@student.cuet.ac.bd,S.M.M Fahim,1604067,CSE,1st dose done + 2nd dose date not given yet
+8/20/2021 16:57:10,u1604068@student.cuet.ac.bd,Rajon Chowdhury,1604068,CSE,1st dose done + 2nd dose date not given yet
+8/21/2021 8:41:01,u1604069@student.cuet.ac.bd,Alamgir Hossain,1604069,CSE,2nd dose done
+8/30/2021 15:10:01,u1604070@student.cuet.ac.bd,Sabiha Islam ,1604070,CSE,1st dose done + 2nd dose date not given yet
+8/20/2021 18:39:23,u1604072@student.cuet.ac.bd,MD Mehadi Hasan Shuvo,1604072,CSE,2nd dose done
+8/20/2021 16:42:52,u1604073@student.cuet.ac.bd,Md. Nahidul Islam Opu,1604073,CSE,2nd dose done
+8/20/2021 20:28:34,u1604074@student.cuet.ac.bd,Sadia Islam Mim,1604074,CSE,2nd dose done
+8/30/2021 13:47:19,u1604075@student.cuet.ac.bd,Md. Tahsin,1604075,CSE,1st dose done + 2nd dose date given
+8/20/2021 21:30:03,u1604076@student.cuet.ac.bd,Md. Nafiul Islam,1604076,CSE,Couldn’t Register yet (or no NID)
+8/21/2021 1:06:58,u1604077@student.cuet.ac.bd,Ashik Mahmud,1604077,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 17:02:39,u1604078@student.cuet.ac.bd,Mehedi Hasan,1604078,CSE,2nd dose done
+8/20/2021 17:15:34,u1604079@student.cuet.ac.bd,Tanha Kabir Koly,1604079,CSE,2nd dose done
+8/20/2021 17:57:23,u1604080@student.cuet.ac.bd,Md Golam Sarwar,1604080,CSE,2nd dose done
+8/20/2021 16:39:38,u1604082@student.cuet.ac.bd,Omar Faruk,1604082,CSE,1st dose done + 2nd dose date not given yet
+8/20/2021 22:08:13,u1604083@student.cuet.ac.bd,Mahathir Mohammad Bishal,1604083,CSE,2nd dose done
+8/20/2021 21:48:30,u1604084@student.cuet.ac.bd,Mahir Tazwar ,1604084,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 16:36:28,u1604085@student.cuet.ac.bd,Nishan Paul,1604085,CSE,2nd dose done
+8/20/2021 17:18:33,u1604086@student.cuet.ac.bd,Md. Sijanur Rahman,1604086,CSE,2nd dose done
+8/21/2021 15:48:31,u1604088@student.cuet.ac.bd,Mahfujur Rahman,1604088,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 17:07:29,u1604089@student.cuet.ac.bd,Md Maruf Hasan,1604089,CSE,1st dose done + 2nd dose date given
+8/20/2021 16:50:52,u1604090@student.cuet.ac.bd,Tanvir Hasan,1604090,CSE,2nd dose done
+8/20/2021 17:05:25,u1604091@student.cuet.ac.bd,Md Jahid Hasan,1604091,CSE,Registration done but no vaccination yet
+8/30/2021 16:56:16,u1604092@student.cuet.ac.bd,Cinmoy Das Shubra,1604092,CSE,2nd dose done
+8/20/2021 17:20:12,u1604093@student.cuet.ac.bd,Tuli Biswas,1604093,CSE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:36:01,u1604094@student.cuet.ac.bd,ASHRAFUL ISLAM AKANDA PAVEL ,1604094,CSE,1st dose done + 2nd dose date given
+8/20/2021 16:35:40,u1604095@student.cuet.ac.bd,Sumaiya Sultana ,1604095,CSE,1st dose done + 2nd dose date not given yet
+8/30/2021 13:55:07,u1604096@student.cuet.ac.bd,Irfana Ali,1604096,CSE,2nd dose done
+8/20/2021 21:02:49,u1604098@student.cuet.ac.bd,Ayan Chakraborty ,1604098,CSE,Registration done but no vaccination yet
+8/20/2021 16:39:02,u1604099@student.cuet.ac.bd,Md. Ishtiaq Islam,1604099,CSE,1st dose done + 2nd dose date not given yet
+8/30/2021 21:10:31,u1604100@student.cuet.ac.bd,Chowdhury Sabbir Ahmed ,1604100,CSE,2nd dose done
+8/20/2021 21:39:25,u1604102@student.cuet.ac.bd,Mehedi Hasan Rasel ,1604102,CSE,Registration done but no vaccination yet
+8/20/2021 18:15:47,u1604103@student.cuet.ac.bd,Rahnuma Tasnim,1604103,CSE,2nd dose done
+8/24/2021 12:17:48,u1604104@student.cuet.ac.bd,Md. Jahid Hasan Jami,1604104,CSE,Registration done but no vaccination yet
+8/20/2021 17:42:05,u1604107@student.cuet.ac.bd,Fahmida Ahmed ,1604107,CSE,2nd dose done
+8/20/2021 17:00:53,u1604108@student.cuet.ac.bd,Akram-Ul Hasan,1604108,CSE,Couldn’t Register yet (or no NID)
+8/20/2021 21:37:22,u1604109@student.cuet.ac.bd,Nasehatul Mustakim ,1604109,CSE,2nd dose done
+8/20/2021 16:42:26,u1604110@student.cuet.ac.bd,Rushnan Faria,1604110,CSE,1st dose done + 2nd dose date not given yet
+8/20/2021 17:17:58,u1604111@student.cuet.ac.bd,Shibly Shaiham,1604111,CSE,1st dose done + 2nd dose date given
+8/20/2021 22:59:31,u1604112@student.cuet.ac.bd,Shifat Solaiman,1604112,CSE,1st dose done + 2nd dose date not given yet
+8/20/2021 16:38:16,u1604113@student.cuet.ac.bd,Jakia Parvin,1604113,CSE,2nd dose done
+8/20/2021 21:37:52,u1604114@student.cuet.ac.bd,Soumitra Chowdhury,1604114,CSE,Registration done but no vaccination yet
+8/22/2021 20:36:47,u1604115@student.cuet.ac.bd,Nusratul jannat,1604115,CSE,1st dose done + 2nd dose date given
+8/21/2021 2:00:16,u1604116@student.cuet.ac.bd,Md Muktadir Maula,1604116,CSE,1st dose done + 2nd dose date given
+8/20/2021 16:36:30,u1604117@student.cuet.ac.bd,Upol Chowdhury ,1604117,CSE,1st dose done + 2nd dose date not given yet
+8/20/2021 17:26:01,u1604118@student.cuet.ac.bd,Sayma Kashem Mahjuba,1604118,CSE,2nd dose done
+8/20/2021 22:14:10,u1604119@student.cuet.ac.bd,Kazi Nura Alam,1604119,CSE,Registration done but no vaccination yet
+8/20/2021 21:30:53,u1604120@student.cuet.ac.bd,Md. Jahidul Hasan Jahid,1604120,CSE,2nd dose done
+8/20/2021 18:52:23,u1604122@student.cuet.ac.bd,Sadia Tasnuva Pritha,1604122,CSE,1st dose done + 2nd dose date given
+8/20/2021 16:53:04,u1604123@student.cuet.ac.bd,Md. Mushfiqur Rahman ,1604123,CSE,2nd dose done
+8/20/2021 21:11:07,u1604124@student.cuet.ac.bd,Mohammad Sakif Ibn Yousuf ,1604124,CSE,Registration done but no vaccination yet
+8/20/2021 16:50:30,u1604125@student.cuet.ac.bd,S.M.Rashidul Hasan Nijhum,1604125,CSE,2nd dose done
+8/20/2021 17:58:48,sheikhrasel195@gmail.com,Sheikh Rasel ,1604126,CSE,2nd dose done
+8/20/2021 19:22:42,u1604127@student.cuet.ac.bd,Rabeya Akter Rabu ,1604127,CSE,2nd dose done
+8/20/2021 17:48:02,u1604128@student.cuet.ac.bd,Md Faizul Abedin Shibli,1604128,CSE,1st dose done + 2nd dose date given
+8/20/2021 21:14:07,u1604129@student.cuet.ac.bd,Sudipta Nath,1604129,CSE,2nd dose done
+8/20/2021 21:40:03,u1604130@student.cuet.ac.bd,Anika Bushra,1604130,CSE,2nd dose done
+8/20/2021 16:41:16,u1604131@student.cuet.ac.bd,Chumui Tripura,1604131,CSE,2nd dose done
+8/20/2021 22:23:56,u1605003@student.cuet.ac.bd,Md. Ibrahim khalil Rifat ,1605003,URP,Registration done but no vaccination yet
+8/20/2021 22:06:27,u1605005@student.cuet.ac.bd,Md. Erfanul hoque,1605005,URP,1st dose done + 2nd dose date not given yet
+8/21/2021 7:25:49,u1605006@student.cuet.ac.bd,Wahid Ibne Zakir,1605006,URP,Couldn’t Register yet (or no NID)
+8/20/2021 22:05:07,u1605007@student.cuet.ac.bd,MD. SHAMIM,1605007,URP,Registration done but no vaccination yet
+8/20/2021 22:04:22,u1605008@student.cuet.ac.bd,Md Rajjakul Haque,1605008,URP,2nd dose done
+8/30/2021 17:09:31,u1605010@student.cuet.ac.bd,Md. Nahid Hassan,1605010,URP,2nd dose done
+8/20/2021 21:57:59,tanvirmahmoodshawon@gmail.com,Tanvir Mahmood ,1605011,URP,Couldn’t Register yet (or no NID)
+8/22/2021 20:05:18,u1605013@student.cuet.ac.bd,FARHANA MEHJABIN ,1605013,URP,2nd dose done
+8/20/2021 21:26:55,u1605014@student.cuet.ac.bd,MD. Nazmul Hasan Fahad,1605014,URP,Registration done but no vaccination yet
+8/21/2021 19:14:18,u1605016@student.cuet.ac.bd,Jubaier khalid Maruf   ,1605016,URP,2nd dose done
+8/21/2021 0:42:26,u1605017@student.cuet.ac.bd,S M Muaz Husain ,1605017,URP,Registration done but no vaccination yet
+8/20/2021 22:00:24,u1605020@student.cuet.ac.bd,Pias Das,1605020,URP,2nd dose done
+8/20/2021 21:55:18,u1605021@student.cuet.ac.bd,Aminul Islam himel,1605021,URP,Couldn’t Register yet (or no NID)
+8/23/2021 21:56:42,u1605022@student.cuet.ac.bd,Shuvo Ray,1605022,URP,1st dose done + 2nd dose date not given yet
+8/21/2021 17:44:34,u1605023@student.cuet.ac.bd,MD. Faizur Rahman Saad ,1605023,URP,Registration done but no vaccination yet
+8/20/2021 22:09:18,u1605024@student.cuet.ac.bd,Dina Arjumand ,1605024,URP,Couldn’t Register yet (or no NID)
+8/21/2021 10:48:39,u1605025@student.cuet.ac.bd,Sumiya Nazmin,1605025,URP,2nd dose done
+8/20/2021 23:29:27,u1605026@student.cuet.ac.bd,Md. Saneul Alam Shiam ,1605026,URP,2nd dose done
+8/20/2021 22:32:26,u1605027@student.cuet.ac.bd,Md Maruf Hossain,1605027,URP,Couldn’t Register yet (or no NID)
+8/20/2021 21:45:40,u1606006@student.cuet.ac.bd,Tasfia Zarin,1606006,ARCHI,2nd dose done
+8/20/2021 21:44:20,u1606012@student.cuet.ac.bd,Ommker Dutta Jay,1606012,ARCHI,Registration done but no vaccination yet
+8/22/2021 17:39:58,u1606014@student.cuet.ac.bd,Amrita Chowdhury,1606014,ARCHI,1st dose done + 2nd dose date not given yet
+8/20/2021 21:49:59,u1606022student@cuet.ac.bd,Sumaiya Sultana shoma,1606022,ARCHI,2nd dose done
+8/23/2021 10:36:53,u1606024@student.cuet.ac.bd,Papon datta,1606024,ARCHI,2nd dose done
+8/22/2021 15:56:11,u1607001@student.cuet.ac.bd,Shumick Dev,1607001,PME,2nd dose done
+8/20/2021 20:51:02,u1607002@student.cuet.ac.bd,Anindita Barua,1607002,PME,1st dose done + 2nd dose date given
+8/20/2021 17:23:00,u1607003@cuet.student.ac.bd,Abu Shahria,1607003,PME,1st dose done + 2nd dose date given
+8/20/2021 16:43:41,u1607005@student.cuet.ac.bd,Md.Tanvir Kutub Rony ,1607005,PME,2nd dose done
+8/20/2021 16:52:15,u1607006@student.cuet.ac.bd,Rahat Iqbal,1607006,PME,Registration done but no vaccination yet
+8/20/2021 21:54:57,u1607007@student.cuet.ac.bd,Mohammad Rayhan Mahmud   ,1607007,PME,Registration done but no vaccination yet
+8/20/2021 16:39:41,u1607009@student.cuet.ac.bd,Md Zahidul Islam ,1607009,PME,Registration done but no vaccination yet
+8/20/2021 21:33:41,u1607011@student.cuet.ac.bd,Imran ,1607011,PME,1st dose done + 2nd dose date given
+8/21/2021 0:53:03,tirtho127@gmail.com,Tirtho Bormon,1607012,PME,1st dose done + 2nd dose date not given yet
+8/21/2021 0:29:05,u1607017@student.cuet.ac.bd,Mohsin Faruk ,1607017,PME,Registration done but no vaccination yet
+8/20/2021 18:22:01,u1607018@student.cuet.ac.bd,Fahim Habib,1607018,PME,2nd dose done
+8/20/2021 17:25:55,u1607019@student.cuet.ac.bd,Md. Mustakim Mukit,1607019,PME,2nd dose done
+8/20/2021 22:26:21,shehabislam26@gmail.com,Md. Shehab Islam,1607021,PME,1st dose done + 2nd dose date not given yet
+8/20/2021 21:20:07,u1607023@student.cuet.ac.bd,Samiul Sarwar Nibir,1607023,PME,2nd dose done
+8/20/2021 21:26:45,u1607024@student.cuet.ac.bd,ATIQ RAHMAN,1607024,PME,Registration done but no vaccination yet
+8/20/2021 22:50:45,u1607025@student.cuet.ac.bd,MD.ASHIKUR RAHMAN,1607025,PME,Registration done but no vaccination yet
+8/20/2021 22:17:39,toufiqelahi44@gmail.com,Toufiq Ahmed,1607027,PME,Registration done but no vaccination yet
+8/20/2021 16:42:01,u1607028@student.cuet.ac.bd,Milon Hossain,1607028,PME,Couldn’t Register yet (or no NID)
+8/20/2021 17:32:00,u1607030@student.cuet.ac.bd,Shapnil Barua,1607030,PME,2nd dose done
+8/20/2021 16:00:25,u1608001@student.cuet.ac.bd,Hafiza Akter Munira,1608001,ETE,Registration done but no vaccination yet
+8/20/2021 17:05:50,u1608002@student.cuet.ac.bd,Md Saiful Islam,1608002,ETE,Registration done but no vaccination yet
+8/20/2021 15:17:02,u1608003@student.cuet.ac.bd,Md. Tauhidul Islam,1608003,ETE,1st dose done + 2nd dose date not given yet
+8/20/2021 15:13:28,u1608004@student.cuet.ac.bd,Sneha Deb,1608004,ETE,2nd dose done
+8/20/2021 15:26:02,u1608005@student.cuet.ac.bd,Md. Nazmul Islam,1608005,ETE,2nd dose done
+8/20/2021 15:19:26,u1608006@student.cuet.ac.bd,Zarin Nushiba ,1608006,ETE,Registration done but no vaccination yet
+8/20/2021 15:32:56,zarinanjumansejuti08@gmail.com,Zarin Anjuman Sejuti,1608008,ETE,Couldn’t Register yet (or no NID)
+8/20/2021 15:45:20,u1608009@student.cuet.ac.bd,Mahabub-E-Sanjida Tasnim ,1608009,ETE,1st dose done + 2nd dose date not given yet
+8/20/2021 15:18:37,u1608010@student.cuet.ac.bd,Fowzia Hossain ,1608010,ETE,Couldn’t Register yet (or no NID)
+8/20/2021 15:25:35,u1608011@student.cuet.ac.bd,Umme Afruz,1608011,ETE,2nd dose done
+8/20/2021 17:28:23,u1608012@student.cuet.ac.bd,Sabbir Ahmed,1608012,ETE,Couldn’t Register yet (or no NID)
+8/30/2021 13:48:46,u1608013@student.cuet.ac.bd,Md.Yeasin Parvez,1608013,ETE,2nd dose done
+8/20/2021 15:22:51,u1608014@student.cuet.ac.bd,Saida Sharmin,1608014,ETE,2nd dose done
+8/20/2021 15:26:18,u1608015@student.cuet.ac.bd,Khodoker Jubayer Rahman ,1608015,ETE,2nd dose done
+8/21/2021 12:09:01,u1608016@student.cuet.ac.bd,MD. OMAR FARUK NOMAN,1608016,ETE,Registration done but no vaccination yet
+8/20/2021 22:49:23,u1608017@student.cuet.ac.bd,Nirzar varua,1608017,ETE,1st dose done + 2nd dose date not given yet
+8/30/2021 13:46:54,u1608018@student.cuet.ac.bd,Md.Asif Zuhayer,1608018,ETE,2nd dose done
+8/20/2021 17:38:24,mghalamina@gmail.com,Al- Amin,1608020,ETE,1st dose done + 2nd dose date not given yet
+8/20/2021 21:22:43,u1608021@student.ac.bd,Sumaiya Binta Rowshon ,1608021,ETE,2nd dose done
+8/20/2021 21:16:49,u1608022@student.cuet.ac.bd,Mahshid Irfan,1608022,ETE,Registration done but no vaccination yet
+8/20/2021 17:10:24,ishratcuet17@gmail.com,Ishrat jahan,1608023,ETE,2nd dose done
+8/20/2021 16:18:23,u1608025@student.cuet.ac.bd,Fahad Siddique Ahmed ,1608025,ETE,Registration done but no vaccination yet
+8/20/2021 16:13:51,u1608026@student.cuet.ac.bd,Jobayer Alam Mahin ,1608026,ETE,Registration done but no vaccination yet
+8/20/2021 15:15:01,u1608028@student.cuet.ac.bd,Angona Biswas,1608028,ETE,1st dose done + 2nd dose date given
+8/30/2021 13:32:49,u1608029@student.cuet.ac.bd,Sazzad Yousuf Sourab,1608029,ETE,1st dose done + 2nd dose date given
+8/30/2021 14:12:34,u1608030@student.cuet.ac.bd,Mohammad Muid Uddin Chowdhury ,1608030,ETE,Registration done but no vaccination yet
+8/20/2021 21:27:43,u1609001@student.cuet.ac.bd,Semonti Banik,1609001,MIE,2nd dose done
+8/21/2021 1:54:33,u1609002@student.cuet.ac.bd,Samiul Alam,1609002,MIE,2nd dose done
+8/20/2021 21:51:12,u1609003@student.cuet.ac.bd,Khandaker Sabrina Sahim ,1609003,MIE,2nd dose done
+8/30/2021 13:40:33,u1609004@student.cuet.ac.bd,Md. Rifatul Islam,1609004,MIE,2nd dose done
+8/20/2021 22:38:10,u1609008@student.cuet.ac.bd,Md. Subayer Islam,1609008,MIE,2nd dose done
+8/20/2021 21:25:52,u1609009@student.cuet.ac.bd,Tasfia Amin Chowdhury,1609009,MIE,Registration done but no vaccination yet
+8/22/2021 19:51:37,u1609010@student.cuet.ac.bd,Ratri Chowdhury ,1609010,MIE,Registration done but no vaccination yet
+8/20/2021 21:30:29,u1609011@student.cuet.ac.bd,Md Samiul Bari,1609011,MIE,2nd dose done
+8/20/2021 21:37:40,u1609013@student.cuet.ac.bd,Md. Abdullah Shoumik ,1609013,MIE,2nd dose done
+8/30/2021 14:10:20,u1609014@student.cuet.ac.bd,A.K.M Shabbir,1609014,MIE,1st dose done + 2nd dose date given
+8/21/2021 13:43:00,u1609015@student.cuet.ac.bd,Dalia Ahmed Tisha,1609015,MIE,2nd dose done
+8/20/2021 21:28:28,u1609016@student.cuet.ac.bd,Ariful Islam Akash,1609016,MIE,2nd dose done
+8/21/2021 0:53:42,shafinhasnat97@gmail.com,Shafin Hasnat,1609019,MIE,2nd dose done
+8/20/2021 21:24:47,u1609021@student.cuet.ac.bd,SAIFUL HOSSEN CHOWDHURY,1609021,MIE,Couldn’t Register yet (or no NID)
+8/20/2021 21:28:40,u1609022@student.cuet.ac.bd,Mitu Shikder,1609022,MIE,2nd dose done
+8/20/2021 21:55:18,u1609023@student.cuet.ac.bd,Rifat Ahmmed,1609023,MIE,2nd dose done
+8/20/2021 21:31:48,u1609024@student.cuet.ac.bd,Mumtahina Alam,1609024,MIE,2nd dose done
+8/20/2021 22:13:00,u1609025@student.cuet.ac.bd,Arafat Al Fahim ,1609025,MIE,1st dose done + 2nd dose date given
+8/30/2021 14:04:44,u1609026@student.cuet.ac.bd,Omar Faruk,1609026,MIE,1st dose done + 2nd dose date given
+8/20/2021 21:29:54,u1609027@student.cuet.ac.bd,Quazi Sadman Kabir ,1609027,MIE,2nd dose done
+8/24/2021 13:35:14,u1609029@student.cuet.ac.bd,Hasib,1609029,MIE,Registration done but no vaccination yet
+8/20/2021 21:32:22,u1609030@student.cuet.ac.bd,Humayara Jannat Meem,1609030,MIE,2nd dose done
+8/20/2021 21:27:29,u1610003@student.cuet.ac.bd,Abu Tawhid Shohan ,1610003,WRE,1st dose done + 2nd dose date given
+8/20/2021 22:07:39,u1610004@student.cuet.ac.bd,azmaeen rahman abhra,1610004,CE,2nd dose done
+8/20/2021 21:31:05,u1610005@student.cuet.ac.bd,Fahamida Hossain ,1610005,WRE,2nd dose done
+8/20/2021 21:55:27,u1610008@student.cuet.ac.bd,Md.Radwan Imroze Khan ,1610008,CE,1st dose done + 2nd dose date given
+8/20/2021 21:49:24,u1610010@student.cuet.ac.bd,Fawzia-Binthe-Walied,1610010,CE,1st dose done + 2nd dose date given
+8/20/2021 21:09:55,u161001@student.cuet.ac.bd,Mahi Rezvan Rapty,1610011,CE,Registration done but no vaccination yet
+8/21/2021 9:53:36,u1610012@student.cuet.ac.bd,Mirza Kaniz,1610012,CE,1st dose done + 2nd dose date not given yet
+8/20/2021 22:32:57,u1610013@student.cuet.ac.bd,Zerin Sanzana,1610013,CE,2nd dose done
+8/20/2021 21:55:42,u1610015@student.cuet.ac.bd,Nur Mohammed,1610015,CE,Registration done but no vaccination yet
+8/20/2021 21:50:05,u1610016@student.cuet.ac.bd,MD. TAMIM,1610016,WRE,1st dose done + 2nd dose date given
+8/21/2021 0:52:32,u1610018@student.cuet.ac.bd,ASHIQUR RAHMAN ZIAD,1610018,CE,1st dose done + 2nd dose date not given yet
+8/20/2021 23:34:17,u1610019@student.cuet.ac.bd,Biddyut Roy,1610019,CE,2nd dose done
+8/20/2021 22:15:45,u1610020@student.cuet.ac.bd,Ishtiyaq Ahmed Emon ,1610020,CE,Registration done but no vaccination yet
+8/20/2021 22:09:58,u1610021@student.cuet.ac.bd,Rukhsana akter mou,1610021,WRE,Registration done but no vaccination yet
+8/20/2021 23:18:45,u1610022@student.cuet.ac.bd,Mohaimilul Khan,1610022,CE,Registration done but no vaccination yet
+8/20/2021 22:02:32,u1610023@student.cuet.ac.bd,Kritwick Saha ,1610023,CE,1st dose done + 2nd dose date given
+8/23/2021 23:08:11,u1610025@student.cuet.ac.bd,Amitava Debnath,1610025,WRE,Registration done but no vaccination yet
+8/22/2021 12:40:51,u1610027@student.cuet.ac.bd,Nazmul Islam,1610027,CE,Registration done but no vaccination yet
+8/30/2021 14:45:56,u1610029@student.cuet.ac.bd,YEATEE ARABEE MEEM,1610029,WRE,2nd dose done
+8/21/2021 13:05:36,u1610030@student.cuet.ac.bd,Tabassum Afsara Islam,1610030,WRE,Couldn’t Register yet (or no NID)
+8/20/2021 22:27:04,u1610026@student.cuet.ac.bd,Nazmul Rahman Khan,1640026,CE,2nd dose done
+8/24/2021 13:58:17,u1603012@student.cuet.ac.bd,Nafis Fuad,1603012,ME,2nd dose done
+8/24/2021 14:05:40,u1606009@student.cuet.ac.bd,jasmin akter,1606009,ARCHI,1st dose done + 2nd dose date not given yet
+8/24/2021 14:35:01,u1603077@student.cuet.ac.bd,Simanto Das,1603077,ME,2nd dose done
+8/24/2021 14:42:58,u1601089@student.cuet.ac.bd,Lamia Islam Leeya ,1601089,CE,2nd dose done
+8/24/2021 14:50:01,u1610014@student.cuet.ac.bd,Md.Shohanur Rahman  ,1610014,WRE,Registration done but no vaccination yet
+8/24/2021 15:21:50,u1607016@student.cuet.ac.bd,Ram kumer datta ,1607016,PME,1st dose done + 2nd dose date given
+8/24/2021 16:53:39,u1601060@student.cuet.ac.bd,Chinmoy Kumar Debnath,1601060,CE,Couldn’t Register yet (or no NID)
+8/24/2021 16:59:57,u1602075@student.cuet.ac.bd,Tanvir Farhan,1602075,EEE,1st dose done + 2nd dose date not given yet
+8/24/2021 19:20:53,talal.mahmud10@gmail.com,Talal Mahmud Shihab,1606005,ARCHI,2nd dose done
+8/24/2021 19:49:28,u1605019@student.cuet.ac.bd,Rezaul Karim ,1605019,URP,Couldn’t Register yet (or no NID)
+8/24/2021 20:52:58,u1601068@student.cuet.ac.bd,ALI ASHRAF MASUD,1601068,CE,2nd dose done
+8/24/2021 23:15:09,u1602126@student.cuet.ac.bd,Mst. Umme Habiba,1602126,EEE,Couldn’t Register yet (or no NID)
+8/25/2021 0:42:10,u1603076@student.cuet.ac.bd,MD Baset Bhuiyan ,1603076,ME,2nd dose done
+8/25/2021 18:15:48,u1603112@student.cuet.ac.bd,Mst. Nahid Sultana,1603112,ME,Registration done but no vaccination yet
+8/25/2021 23:06:08,u1604071@student.cuet.ac.bd,Ashish Pondit,1604071,CSE,2nd dose done
+8/26/2021 4:01:39,u1603015@student.cuet.ac.bd,Mir Nabil Mahmud,1603015,ME,Registration done but no vaccination yet
+8/27/2021 22:48:29,u1609018@student.cuet.ac.bd,Arpita Barua,1609018,MIE,2nd dose done
+8/28/2021 1:23:08,u1608019@student.cuet.ac.bd,Mosabbir Bhuiyan,1608019,ETE,1st dose done + 2nd dose date not given yet
+8/30/2021 13:34:27,u1603065@student.cuet.ac.bd,MD. SHOHUL AFZAL,1603065,ME,Registration done but no vaccination yet
+8/30/2021 13:36:08,nadeem092597@gmail.com,Nadeem Mahamud ,1603042,ME,Registration done but no vaccination yet
+8/30/2021 13:36:29,u1603001@student.cuet.ac.bd,Tahmidul Islam Tamim,1603001,ME,2nd dose done
+8/30/2021 13:36:56,u1603067@student.cuet.ac.bd,HASNINE WAHID NILOY,1603067,ME,1st dose done + 2nd dose date given
+8/30/2021 13:37:11,u1603113@student.cuet.ac.bd,Mohammad Forhad Mia ,1603113,ME,2nd dose done
+8/30/2021 13:39:32,u1603110@student.cuet.ac.bd,Touhid Ahmed Orvi,1603110,ME,2nd dose done
+8/30/2021 13:40:04,u1603061@student.cuet.ac.bd,SM Munawar Mahtab,1603061,ME,1st dose done + 2nd dose date not given yet
+8/30/2021 13:40:36,u1603014@student.cuet.ac.bd,MD. Jamil khan Asif,1603014,ME,2nd dose done
+8/30/2021 13:41:25,u1603050@student.cuet.ac.bd,Safqut Sanwar,1603050,ME,2nd dose done
+8/30/2021 13:42:17,u1603048@student.cuet.ac.bd,Mir Md. jobidh Hossen,1603048,ME,Registration done but no vaccination yet
+8/30/2021 13:44:31,maksud.mechinaries767@gmail.com,Maksudur Rahman,1603114,ME,Couldn’t Register yet (or no NID)
+8/30/2021 13:48:34,shakirme.eng@gmail.com,Shakir Istiak,1503083,ME,Registration done but no vaccination yet
+8/30/2021 13:48:52,u1603106@student.cuet.ac.bd,Fathum Mubeen,1603106,ME,2nd dose done
+8/30/2021 13:50:22,u1603022@student.cuet.ac.bd,Abdulla hill bakki,1603022,ME,2nd dose done
+8/30/2021 13:51:05,u1603021@student.cuet.ac.bd,Anupam Kumar Nath ,1603021,ME,2nd dose done
+8/30/2021 13:51:42,u1603078@student.cuet.ac.bd,Arafat hossen ,1603078,ME,2nd dose done
+8/30/2021 13:56:49,u1603105@student.cuet.ac.bd,Alvi Ahmmed,1603105,ME,1st dose done + 2nd dose date given
+8/30/2021 13:59:03,u1603072@student.cuet.ac.bd,Md Hasanul Haque ,1603072,ME,2nd dose done
+8/30/2021 14:02:26,u1603073@student.cuet.ac.bd,Protap Sarker,1603073,ME,2nd dose done
+8/30/2021 14:07:13,u1603103@student.cuet.ac.bd,Md. Abdullah Al Noman,1603103,ME,1st dose done + 2nd dose date not given yet
+8/30/2021 14:07:44,u1603093@student.cuet.ac.bd,MD. MUSAEB RAHMAN,1603093,ME,2nd dose done
+8/30/2021 14:10:12,u1603080@student.cuet.ac.bd,Towhedul Islam,1603080,ME,2nd dose done
+8/30/2021 14:24:49,u1603038@student.cuet.ac.bd,MD Sirat Al Rahman ,1603038,ME,2nd dose done
+8/30/2021 14:24:59,u1601044@student.cuet.ac.bd,Md. Rabiul Hasan Shawon,1601044,CE,2nd dose done
+8/30/2021 14:27:32,u1603045@student.cuet.ac.bd,Tousif,1603045,ME,Registration done but no vaccination yet
+8/30/2021 14:29:06,u1603006@student.cuet.ac.bd,MD. ROBIUL HASAN ,1603006,ME,1st dose done + 2nd dose date given
+8/30/2021 14:29:53,u1609006@student.cuet.ac.bd,Kazi naimur rahman,1609006,MIE,1st dose done + 2nd dose date not given yet
+8/30/2021 14:41:19,u1603084@student.cuet.ac.bd,Mubassir Rahman ,1603084,ME,Registration done but no vaccination yet
+8/30/2021 14:44:09,mdoeys089@gmail.com,Md Oeys Mondal ,1603089,ME,2nd dose done
+8/30/2021 14:45:02,u1603098@student.cuet.ac.bd,MD Iqbal Hossain ,1603098,ME,2nd dose done
+8/30/2021 14:46:08,u1603108@student.cuet.ac.bd,SABBIR AHMED,1603108,ME,2nd dose done
+8/30/2021 15:21:03,u1603128@student.cuet.ac.bd,Md Tarek Mahmud Patwary ,1603128,ME,2nd dose done
+8/30/2021 15:23:03,shahriarmahmud292@gmail.com,Shahriar Mahmud Sabuj,1604013,CSE,Registration done but no vaccination yet
+8/30/2021 15:43:37,u1603026@student.cuet.ac.bd,Md Sharier Kabir ,1603026,ME,Registration done but no vaccination yet
+8/30/2021 16:15:19,u1603082@student.cuet.ac.bd,Md. Main Uddin Sagar,1603082,ME,2nd dose done
+8/30/2021 16:55:18,mdiftekharulalamakash@gmail.com,Md. Iftekharul Alam,1603102,ME,1st dose done + 2nd dose date not given yet
+8/30/2021 17:11:35,u1603010@student.cuet.ac.bd,JOHIR UDDIN KHAN,1603010,ME,Registration done but no vaccination yet
+8/30/2021 17:37:35,u1603059@student.cuet.ac.bd,Akib Ahmed Chowdhury,1603059,ME,1st dose done + 2nd dose date not given yet
+8/30/2021 17:41:35,u1603053@student.cuet.ac.bd,SYED MOHAIMENUL ISLAM,1603053,ME,Registration done but no vaccination yet
+8/30/2021 17:55:29,u1603051@student.cuet.ac.bd,Surovi Aktar Nupur ,1603051,ME,2nd dose done
+8/30/2021 19:13:13,u1603037@student.cuet.ac.bd,AMIT GANGULY,1603037,ME,Registration done but no vaccination yet
+8/30/2021 19:18:50,u1605001@student.cuet.ac.bd,MD AKTER HOSSAIN ,1605001,URP,Registration done but no vaccination yet
+8/30/2021 19:19:39,u1603049@student.cuet.ac.bd,Turag Dev ,1603049,ME,2nd dose done
+8/30/2021 21:14:44,u1603124@student.cuet.ac.bd,Md.Shahriar Mostafa sajib,1603124,ME,2nd dose done
+8/31/2021 11:57:13,u1603019@student.cuet.ac.bd,MD SAROWAL ALI,1603019,ME,2nd dose done
+8/31/2021 14:01:23,u1604121@student.cuet.ac.bd,Md. Jahedul Alam Rifat,1604121,CSE,Registration done but no vaccination yet
+9/1/2021 7:42:37,almiraz2223@gmail.com,Abdullah al Miraz,1603094,ME,2nd dose done
+9/2/2021 9:52:24,u1603071@student.cuet.ac.bd,Md.Hossain Ali,1603071,ME,Registration done but no vaccination yet
+9/2/2021 15:55:10,u1603008@student.cuet.ac.bd,Md. Abir Hasan Jilan,1603008,ME,2nd dose done
+9/3/2021 13:46:04,rukon219@gmail.com,Muhammad Eshaque Ali Rukon,1604023,CSE,2nd dose done
